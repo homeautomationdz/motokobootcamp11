@@ -1,6 +1,6 @@
 # MotokoBootcamp 06.11.2023
 
-Motoko Booktcamp 06.11.23 
+Motoko Booktcamp 06-11-23 
  - https://github.com/motoko-bootcamp/dao-adventure/
  - https://www.motokobootcamp.com/
 
