@@ -1,4 +1,4 @@
-# MotokoBootcamp 06.11.2023
+# MotokoBootcamp 11/2023
 
 Motoko Booktcamp 06.11.23 
  - https://github.com/motoko-bootcamp/dao-adventure/
@@ -6,7 +6,7 @@ Motoko Booktcamp 06.11.23
 
 ## Terminal 1
 ```bash
-sudo dfx start
+   sudo dfx start
 ```
 
 ## Terminal 2
