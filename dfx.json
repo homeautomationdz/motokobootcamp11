@@ -1,0 +1,24 @@
+{
+  "canisters": {
+    "dao": {
+      "main": "levels/dao.mo",
+      "type": "motoko"
+    },
+    "cheats": {
+      "main": "cheats/cheat.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "packtool": ""
+    }
+  },
+  "networks": {
+    "local": {
+      "bind": "127.0.0.1:8000",
+      "type": "ephemeral"
+    }
+  },
+  "version": 1
+}
